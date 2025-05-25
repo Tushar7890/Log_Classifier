@@ -33,11 +33,11 @@ At minimum, `source` and `log_message` columns are required for classification.
 
 
 ## Clone the repo
-git clone https://github.com/Tushar7890/Log_Classifier.git
-cd Log_Classifier
+`git clone https://github.com/Tushar7890/Log_Classifier.git`
+`cd Log_Classifier`
 
 ## Install Dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Run FastAPI Backend
@@ -45,5 +45,5 @@ pip install -r requirements.txt
 
 
 ## Run Streamlit Frontend
-- streamlit run app.py
-- Ensure backend is running on http://localhost:8000
+`streamlit run app.py`
+- Ensure backend is running on `http://localhost:8000`
