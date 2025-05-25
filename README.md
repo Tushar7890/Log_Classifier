@@ -41,9 +41,9 @@ pip install -r requirements.txt
 
 
 ## Run FastAPI Backend
-uvicorn server:app --reload
+`uvicorn server:app --reload`
 
 
 ## Run Streamlit Frontend
-streamlit run app.py
-Ensure backend is running on http://localhost:8000
+- streamlit run app.py
+- Ensure backend is running on http://localhost:8000
